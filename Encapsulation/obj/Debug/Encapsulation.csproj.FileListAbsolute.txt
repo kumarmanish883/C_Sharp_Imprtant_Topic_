@@ -1,0 +1,6 @@
+G:\C_Sharp_Pratice\ConsoleApp\Method_overloading\Encapsulation\bin\Debug\Encapsulation.exe.config
+G:\C_Sharp_Pratice\ConsoleApp\Method_overloading\Encapsulation\bin\Debug\Encapsulation.exe
+G:\C_Sharp_Pratice\ConsoleApp\Method_overloading\Encapsulation\bin\Debug\Encapsulation.pdb
+G:\C_Sharp_Pratice\ConsoleApp\Method_overloading\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Pratice\ConsoleApp\Method_overloading\Encapsulation\obj\Debug\Encapsulation.exe
+G:\C_Sharp_Pratice\ConsoleApp\Method_overloading\Encapsulation\obj\Debug\Encapsulation.pdb
